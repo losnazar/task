@@ -1,10 +1,10 @@
 
 ## Technologies
 - Java 17
-- String Boot(Data, WEB, Test)
+- Spring Boot(Data, MVC, Test)
 - MongoDB
-- Lombok
 - Maven
+
 ##  Rest Endpoints
 - __GET__`:/cryptocurrencies/minprice?name=[currency_name]` - 
     returns record with the lowest price of selected cryptocurrency.
